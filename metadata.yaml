@@ -1,0 +1,34 @@
+_repo: Varastettu-polkupyora-b-Kolminaytoksinen-huvinaytelma_72491
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Virvatuli, Annikki
+    aliases:
+    - Virvatuli-Kaik, Rauha Annikki
+    - Palmlöf, Rauha Anna
+    - Palmlof, Rauha Anna
+    birthdate: 1884
+    deathdate: 1940
+    gutenberg_agent_id: '56703'
+    url: http://www.gutenberg.org/2009/agents/56703
+    wikipedia: https://fi.wikipedia.org/wiki/Annikki_Virvatuli
+description: ''
+gutenberg_issued: '2023-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72491'
+language: fi
+pgterms:marc905: 20211116085541virvatuli
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Varastettu polkupyörä : $b Kolminäytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/72491
